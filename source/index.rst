@@ -8,7 +8,7 @@ Welcome to page 01 in my test project!
 ======================================
 
 .. toctree::
-   :maxdepth: 10
+   :maxdepth: 3
 
    page_02
    page_03
