@@ -7,15 +7,9 @@
 Welcome to page 01 in my test project!
 ======================================
 
------------------------
-There is a subtitle too
------------------------
+.. toctree::
+   :maxdepth: 2
 
-Introduction
-============
-
-This is an example reStructuredText document that I wrote for testing.
-
-- This is a bullet point
-- Here comes another
-- and another
+   page_02
+   page_03
+   page_04
