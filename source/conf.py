@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'test project'
+project = 'My Personal Sandbox Project'
 copyright = '2019, Kevin Quarshie'
 author = 'Kevin Quarshie'
 
