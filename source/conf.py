@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'My Personal Sandbox Project'
+project = 'Kevins Sandbox'
 copyright = '2019, Kevin Quarshie'
 author = 'Kevin Quarshie'
 
@@ -53,3 +53,5 @@ html_theme = 'alabaster'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+master_doc = 'index'

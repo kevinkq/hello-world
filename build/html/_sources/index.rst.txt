@@ -4,11 +4,12 @@
    contain the root `toctree` directive.
 
 ======================================
-Welcome to page 01 in my test project!
+Kevin's reStructuredText Sandbox!
 ======================================
 
 .. toctree::
    :maxdepth: 2
-   
-   page_02
-   page_03
+
+   Welcome
+   Getting started with reStructuredText
+   reStructuredText next steps
