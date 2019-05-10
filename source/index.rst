@@ -8,8 +8,8 @@ Welcome to page 01 in my test project!
 ======================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
-   page_02
-   page_03
-   page_04
+   Welcome
+   Getting started with reStructuredText
+   reStructuredText next steps

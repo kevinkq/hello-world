@@ -3,13 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-======================================
-Welcome to page 02 in my test project!
-======================================
+===========================================
+Welcome to Kevin's reStructuredText Sandbox
+===========================================
 
------------------------
-There is a subtitle too
------------------------
+---------------------------------------------
+Your first steps using reStructuredText
+---------------------------------------------
 
 Introduction
 ============
