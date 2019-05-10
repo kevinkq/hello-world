@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ======================================
-Welcome to page 02 in my test project!
+Welcome to page 04 in my test project!
 ======================================
 
 -----------------------
