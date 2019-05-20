@@ -7,15 +7,42 @@
 Getting started with reStructuredText
 =====================================
 
------------------------
-There is a subtitle too
------------------------
-
 Introduction
 ============
 
-This is an example reStructuredText document that I wrote for testing.
+So tables in reStructuredText are literally **painted**. Below, I have created
+an example for you. For this table to make sense, I have added a few basic
+terminal commands for myself to remember, and to get used to working with tables
+in reStructuredText.
 
-- This is a bullet point
-- Here comes another
-- and another
++------------------------+----------------------------------------------------+
+| Syntax                 | Terminal Command                                   |
++========================+====================================================+
+| **$ sudo su**          |Every command that needs root's permission,         |
+|                        |needs this sudo command. You can use sudo before    |
+|                        |each command that requires root permissions.        |
++------------------------+----------------------------------------------------+
+| **/home$ ls**          |With list command, the terminal will show you all   |
+|                        |the files and folders of the directory that you're  |
+|                        |working in.                                         |
++------------------------+----------------------------------------------------+
+| **cd**                 | Change directory (cd) is the main command that you |
+|                        | will always use in terminal. Just type the name of |
+|                        | the folder you want to go in from your current     |
+|                        | directory. If you want to go up just do it by      |
+|                        | giving double dots (..) as the parameter...        |
++------------------------+----------------------------------------------------+
+| body row 2             | ...                                                |
++------------------------+----------------------------------------------------+
+| body row 2             | ...                                                |
++------------------------+----------------------------------------------------+
+| body row 2             | ...                                                |
++------------------------+----------------------------------------------------+
+| body row 2             | ...                                                |
++------------------------+----------------------------------------------------+
+| body row 2             | ...                                                |
++------------------------+----------------------------------------------------+
+| body row 2             | ...                                                |
++------------------------+----------------------------------------------------+
+| body row 2             | ...                                                |
++------------------------+----------------------------------------------------+

@@ -7,10 +7,6 @@
 reStructuredText next steps
 ===========================
 
------------------------
-There is a subtitle too
------------------------
-
 Introduction
 ============
 

@@ -10,8 +10,8 @@ Welcome
 Hi, I am Kevin, and one of the Tech Writers at Crate. This is my Sandbox. In this
 project, I practice using reStructuredText.
 
-About reStructuredText
-======================
+About reStructured Text
+=======================
 
 This is an example reStructuredText document that I wrote, to get used to
 working with reStructuredText. reStructuredText is a markdown language that
@@ -28,5 +28,3 @@ But first, I want to summarize the what the following sites will contain:
 
 - A list of useful resource on reStructuredText and the Sphinx CheatSheet
 - Text syntax
--
--
